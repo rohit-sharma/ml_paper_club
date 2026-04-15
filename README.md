@@ -8,6 +8,9 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 ## Next meetup's paper ##
 
 - [16/04/2026] Damian presents: [TriAttention: Efficient Long Reasoning with Trigonometric KV Compression](https://arxiv.org/pdf/2604.04921) by Weian Mao, Xi Lin, Wei Huang, Yuxin Xie, Tianfu Fu, Bohan Zhuang, Song Han, Yukang Chen
+- [23/04/2026] NO PAPERCLUB
+- [30/04/2026] Inneke presents: [LeWorldModel: Stable End-to-End Joint-Embedding
+Predictive Architecture from Pixels](https://arxiv.org/pdf/2603.19312) by Lucas Maes, Quentin Le Lidec, Damien Scieur, Yann LeCun, Randall Balestriero
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
 
