@@ -8,7 +8,7 @@ Paper Club is remote and held every other week. As always, Thursdays 12h30 Londo
 ## Next meetup's paper ##
 
 - [07/04/2026] NO PAPERCLUB
-- [14/04/2026] Lahari presents: TBD
+- [14/04/2026] Lahari presents: [Complexity-aware fine-tuning](https://aclanthology.org/2026.findings-eacl.34.pdf) by Andrey Goncharov, Daniil Vyazhev, Petr Sychev, Edvard Khalafyan, Alexey Zaytsev
 
 IF YOU WOULD LIKE TO PRESENT AND WOULD LIKE SOME GUIDANCE HERE IS A [TEMPLATE](https://drive.google.com/file/d/1hiUlG_oRr4S_5YcjLAEOhe-8ElsgfeA0/view?usp=sharing) ON HOW TO STRUCTURE YOUR PRESENTATION
 
